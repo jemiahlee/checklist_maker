@@ -1,0 +1,35 @@
+type,text,response
+title,Cessna 172 Checklist,
+subtitle,Normal procedures,
+revision,"Rev 1, 2026-11-03",
+section,Preflight - Cabin,
+item,Control lock,REMOVE
+item,Ignition,OFF
+item,Master switch,ON
+item,Fuel quantity indicators,CHECK
+item,Master switch,OFF
+item,Fuel selector valve,BOTH
+note,Verify fuel on both tanks before proceeding & note any imbalance.,
+section,Preflight - Exterior,
+item,Baggage door,
+item,Left wing trailing edge,CHECK
+item,Fuel tank sump,"DRAIN (check for water, sediment)"
+item,Fuel cap,SECURE
+item,"Tire pressure ""Max"" marking",100% of rated_value
+item,Visually inspect all control surfaces,
+colbreak,,
+section,Before Start,
+item,Preflight inspection
+item,"Seats, belts, shoulder harnesses",ADJUST & LOCK
+item,Fuel shutoff valve,ON
+item,"Radios, electrical equipment",OFF
+item,Brakes,TEST & SET
+section,Starting Engine,
+item,Mixture,RICH
+item,Carburetor heat,COLD
+item,Primer,2-4 STROKES
+item,Throttle,OPEN 1/4 INCH
+item,Propeller area,CLEAR
+item,Master switch,ON
+item,Ignition switch,START
+item,Oil pressure,CHECK

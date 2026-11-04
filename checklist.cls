@@ -62,7 +62,7 @@
   \vspace{0.6\baselineskip}%
   \noindent\colorbox{sectionbg}{\parbox{\dimexpr\linewidth-2\fboxsep\relax}{%
     \bfseries\MakeUppercase{#1}}}\par
-  \vspace{0.25\baselineskip}}
+  \vspace{0.6\baselineskip}}
 
 % \checkitem{challenge}{response}: box, challenge, dot leader, response.
 % An empty response gives a plain checkbox line with no leader.
